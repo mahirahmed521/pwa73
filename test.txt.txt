@@ -1,1 +1,3 @@
-afweafdfwaefdfweafdf
+this is my first git 
+
+i will not change my file now 
